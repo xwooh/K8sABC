@@ -320,7 +320,7 @@ kubectl apply -f webapp.yaml
 ```
 
 成功执行之后，可以通过下面的命令查看这些 component 是否起来：
-```nashorn js
+```bash
 kubectl get all
 ```
 
